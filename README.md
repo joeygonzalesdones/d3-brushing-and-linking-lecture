@@ -13,3 +13,5 @@ This repository contains my demo code, dataset, and lecture slides that I presen
 ## Running the Program
 
 To run the program, either directly open the `/code/index.html` file with the web browser of your choice (may not work with all browsers), or run a local HTTP server (e.g., with Python 3 installed, navigate to the `/code` directory with the command line and run `py -m http.server 8080`), which will make the program viewable by navigating to `localhost:8080` in the browser.
+
+Once the program is running in the browser, use the mouse to draw a rectangular brush on the visualization, and click and drag to move it around and highlight the points in the scatterplot. Hover over the points with the mouse in order to show the associated tooltips.
